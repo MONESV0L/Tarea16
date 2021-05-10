@@ -1,0 +1,6 @@
+Para poder ejecutar algunas funciones de la
+calculadora se instalaron algunas librerias extra.
+En este caso se usaron los conmandos:
+npm install readline-sync
+npm install --save readline-sync
+Para instalar las librerias necesarias.
